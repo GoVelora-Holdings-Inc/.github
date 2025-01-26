@@ -8,7 +8,7 @@
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-blue)](https://github.com/GoVelora-Holdings-Inc/GoVelora/discussions)  
 [![Global Expansion](https://img.shields.io/badge/Global%20Reach-In%20Progress-brightgreen)](#)
 
-## Welcome to **GoVelora™ Holdings Inc.**  
+## Welcome to **GoVelora™ Holdings Inc.** 
 **GoVelora™** isn’t just an eCommerce platform—it’s a **revolutionary ecosystem** designed to redefine online trade, empower vendors, and support sustainable commerce practices. We are pioneers in integrating **blockchain technology, cryptocurrency (NovusCoin™)**, and cutting-edge **AI analytics** to deliver a secure, seamless, and inclusive global marketplace.
 
 Whether you’re an investor seeking exponential growth opportunities, a developer passionate about building innovative solutions, or a vendor ready to expand globally, **GoVelora™** is your gateway to the future of eCommerce.
